@@ -1,6 +1,7 @@
 ### Hola 👋
 ## Soy Carlos Ramos
 ![](https://komarev.com/ghpvc/?username=cramosmartinez&color=0069b4)
+
 <table>
   <tr>
     <td>
@@ -26,6 +27,11 @@
   <tr>
    <td>
      <h2> 🛠 &nbsp;Tecnologías que uso</h2>
+     <p align="center">
+         <br>
+       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cramosmartinez&layout=compact&langs_count=7&theme=algolia"/>
+
+ </p>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
