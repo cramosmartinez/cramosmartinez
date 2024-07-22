@@ -1,5 +1,6 @@
 ### Hola 👋
 ## Soy Carlos Ramos
+![](https://komarev.com/ghpvc/?username=cramosmartinez&color=0069b4)
 <table>
   <tr>
     <td>
