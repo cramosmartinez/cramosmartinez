@@ -8,8 +8,8 @@
       <h1> 
       <h2> 💻 &nbsp;Sobre mí </h2>
        <ul>
-        <li>🎓 &nbsp; Perito en informatica de la <a href="https://www.kinal.org.gt/">KINAL</a></li>
-        <li>📚 &nbsp; Estudiante de Ingenieria en Sistemas <a href="https://www.umg.edu.gt/">UMG</a></li>
+        <li>🎓 &nbsp; Perito en informatica en <a href="https://www.kinal.org.gt/">KINAL</a></li>
+        <li>📚 &nbsp; Estudiante de Ingenieria en Sistemas en la <a href="https://www.umg.edu.gt/">UMG</a></li>
         <li>👑 &nbsp; Desarrollador Junior Full Stack </li>
         <li>🤔 &nbsp; Interesado en Aprendizaje Automático y Optimización</li>
        </ul>
